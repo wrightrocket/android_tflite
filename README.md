@@ -4,7 +4,7 @@ Run and measure the performance of TensorFlow Lite GPU Delegate on Android NDK.
 
 
 ## 1. Applications
-List of Applications
+### List of Applications
 ### [Blazeface](https://github.com/terryky/android_tflite/tree/master/tflite_blazeface)
 - Lightweight Face Detection.<br>
 [<img src="tflite_blazeface/tflite_blazeface.png" width=500>](https://github.com/terryky/android_tflite/tree/master/tflite_blazeface)
